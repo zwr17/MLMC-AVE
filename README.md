@@ -9,7 +9,7 @@ man speaking, woman speaking, walking, typing, kettle boiling, writing on board,
 <div align=center><img width="650" src="https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/category_distri.png"/></div>
 
 And each video contains at least one AVE. Some examples of our dataset are shown here.
-![image](https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/example.png)
+<div align=center><img width="650" src="https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/example.png"/></div>
 
 ## Notice
 We want to inform you that this dataset contains a person's face, so if you want to use or edit it, it is better to notify us of your aim.
