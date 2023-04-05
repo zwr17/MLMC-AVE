@@ -11,6 +11,8 @@ man speaking, woman speaking, walking, typing, kettle boiling, writing on board,
 And each video contains at least one AVE. Some examples of our dataset are shown here.
 <div align=center><img width="650" src="https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/example.png"/></div>
 
+https://drive.google.com/drive/u/1/folders/1LDzmpQb4x-Gt9VvcJ9A8-PFg7mT3flSm
+
 ## Notice
 We want to inform you that this dataset contains a person's face, so if you want to use or edit it, it is better to notify us of your aim.
 
