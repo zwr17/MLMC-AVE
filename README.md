@@ -13,6 +13,8 @@ And each video contains at least one AVE. Some examples of our dataset are shown
 
 Dataset can be downloaded from https://drive.google.com/drive/u/1/folders/1LDzmpQb4x-Gt9VvcJ9A8-PFg7mT3flSm .
 
+The visual and audio inputs are individually pre-processed by pre-trained convolutional neural networks. To process the visual data, each frame image is extracted from the video and passed through ResNet pre-trained on ImageNet to obtain the frame-wise feature. For audio part, we first take the wav-format audio data from the video or the microphone(s) and compute the audio feature through the VGG-like CNN model pre-trained on the AudioSet dataset.
+
 ## Notice
 We want to inform you that this dataset contains a person's face, so if you want to use or edit it, it is better to notify us of your aim.
 
