@@ -1,7 +1,7 @@
 # Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array
 
 This program is for the audio-visual recognition task for more real life in a school or an office. The dataset is made up of omnidirectional video and corresponding 8-channel audio. We film the omnidirectional video by theta-v and 8-channel audio by the Tamago device.
-![image](https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/device_dataset.png)
+<div align=center><img width="650" src="https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/device_dataset.png"/></div>
 
 ## Details
 We defined 12 event categories assuming an indoor office environment with multiple sound sources. The defined categories are
