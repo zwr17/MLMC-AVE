@@ -4,13 +4,8 @@ This program is for the audio-visual recognition task for more real life in a sc
 
 ## Details
 We defined 12 event categories assuming an indoor office environment with multiple sound sources. The defined categories are
-*man speaking, woman speaking, walking, typing, kettle boiling, writing on board, alarming, opening the door, opening the drawer, coughing, printer working,*and *cleaner working*. There is also a category {\em nothing} for scenes without any event; thus, the total number of categories in our dataset is 13. 660 videos were collected, and the distribution of each category is shown in Fig.~\ref{fig:distribution of cataegory}.
-Each video contains at least one AVE. 
+man speaking, woman speaking, walking, typing, kettle boiling, writing on board, alarming, opening the door, opening the drawer, coughing, printer working,and cleaner working. There is also a category nothing for scenes without any event; thus, the total number of categories in our dataset is 13. 660 videos were collected, and the distribution of each category is shown in Fig.~\ref{fig:distribution of cataegory}. And each video contains at least one AVE. Some examples of our dataset are shown in Fig. 3.
 
-category image
-distribution image
-
-## Result
 
 ## Reference
 
