@@ -4,5 +4,10 @@ This program is for the audio-visual recognition task for more real life in a sc
 
 ## details
 
+## result
+
+## reference
+
+## notice
 We want to inform you that this dataset contains a person's face, so if you want to use or edit it, it is better to notify us of your aim.
 
