@@ -1,6 +1,8 @@
-# Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array
+# MLMC-AVE dataset
 
-This program is for the audio-visual recognition task for more real life in a school or an office. The dataset is made up of omnidirectional video and corresponding 8-channel audio. We film the omnidirectional video by theta-v and 8-channel audio by the Tamago device.
+MLMC-AVE is short for multi-label multi-channel audio-visual event.
+
+This program is for the audio-visual event localization task for more real life in a school or an office. The dataset is made up of omnidirectional video and corresponding 8-channel audio. We film the omnidirectional video by theta-v and 8-channel audio by the Tamago device.
 <div align=center><img width="550" src="https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/device_dataset.png"/></div>
 
 ## Details
