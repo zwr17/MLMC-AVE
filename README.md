@@ -13,7 +13,8 @@ man speaking, woman speaking, walking, typing, kettle boiling, writing on board,
 And each video contains at least one AVE. Some examples of our dataset are shown here.
 <div align=center><img width="650" src="https://github.com/zwr17/Multi-Event-Localization-by-Audio-Visual-Fusion-with-Omnidirectional-Camera-and-Microphone-Array/blob/main/example.png"/></div>
 
-Dataset can be downloaded from https://drive.google.com/drive/u/1/folders/1GvNTOQAbG3aHT7G1vGKtgK1Mlisjf7wi .
+Dataset can be downloaded from https://drive.google.com/file/d/1jzmkA421L2zzs_VfBsCwELm7lq3Dt0Q-/view?usp=share_link . 
+Features can be downloaded from https://drive.google.com/file/d/1k2jqt7pcXfP84iZbJpG5Jr5iqMvAVBsJ/view?usp=share_link .
 
 The visual and audio inputs are individually pre-processed by pre-trained convolutional neural networks. To process the visual data, each frame image is extracted from the video and passed through ResNet pre-trained on ImageNet to obtain the frame-wise feature. For audio part, we first take the wav-format audio data from the video or the microphone(s) and compute the audio feature through the VGG-like CNN model pre-trained on the AudioSet dataset.
 
