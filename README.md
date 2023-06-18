@@ -1,5 +1,9 @@
 # MLMC-AVE dataset
 
+Wenru Zheng, Ryota Yoshihashi, Rei Kawakami, Ikuro Sato, and Asako Kanezaki.
+**Multi Event Localization by Audio-Visual Fusion with Omnidirectional Camera and Microphone Array.**
+*6th CVPR Workshop on Multimodal Learning and Applications (MULA)*, accepted, 2023.
+
 MLMC-AVE is short for multi-label multi-channel audio-visual event.
 
 This program is for the audio-visual event localization task for more real life in a school or an office. The dataset is made up of omnidirectional video and corresponding 8-channel audio. We film the omnidirectional video by theta-v and 8-channel audio by the Tamago device.
